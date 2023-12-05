@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello fellas 👋
+
+I'm currently working as an Electronic Hardware Engineer.
+
+My goal at this moment is to learn the AI roadmap.
+I'm starting with the basics first.
+Wish me luck.
+
+Best regard,
+#Michael C B N W
+
 
 <!--
 **michaelcbnw/michaelcbnw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
