@@ -1,7 +1,5 @@
 ### Hello fellas 👋
 
-I'm currently working as an Electronic Hardware Engineer.
-
 My goal at this moment is to learn the AI roadmap.
 I'm starting with the basics first.
 Wish me luck.
