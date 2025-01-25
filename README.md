@@ -1,10 +1,8 @@
 ### Hello fellas 👋
 
-My goal at this moment is to learn the AI roadmap.
 I'm starting with the basics and building blocks of knowledge: C, Data Structure and Algorithm, & Signal and System.
 Wish me luck.
 
-Best regard,
 ##### Michael C B N W
 
 
