@@ -1,7 +1,6 @@
 ### Hello fellas 👋
 
-I'm starting with the basics and building blocks of knowledge: C, Data Structure and Algorithm, & Signal and System.
-Wish me luck.
+I'm typing.
 
 ##### Michael C B N W
 
